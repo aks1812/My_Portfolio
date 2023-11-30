@@ -14,6 +14,7 @@
     width: 100%;
     height: 120vh;
     background-color: #6969693e;
+    background-image: url(developer.jpg);
 }
 #navBar{
     display: flex;
